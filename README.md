@@ -1,7 +1,5 @@
 <div align="center">
-<p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="60"/>
-</p>
+
 # 👋 Hi, I'm Adnane Chaikhi
 
 ### A passionate Fullstack Web Developer from Morocco  
